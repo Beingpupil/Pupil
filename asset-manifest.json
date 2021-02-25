@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Pupil/static/css/main.cdef1e19.chunk.css",
-    "main.js": "/Pupil/static/js/main.4f3da544.chunk.js",
-    "main.js.map": "/Pupil/static/js/main.4f3da544.chunk.js.map",
-    "runtime-main.js": "/Pupil/static/js/runtime-main.0773bee5.js",
-    "runtime-main.js.map": "/Pupil/static/js/runtime-main.0773bee5.js.map",
-    "static/js/2.d9c7daa4.chunk.js": "/Pupil/static/js/2.d9c7daa4.chunk.js",
-    "static/js/2.d9c7daa4.chunk.js.map": "/Pupil/static/js/2.d9c7daa4.chunk.js.map",
-    "index.html": "/Pupil/index.html",
-    "static/css/main.cdef1e19.chunk.css.map": "/Pupil/static/css/main.cdef1e19.chunk.css.map",
-    "static/js/2.d9c7daa4.chunk.js.LICENSE.txt": "/Pupil/static/js/2.d9c7daa4.chunk.js.LICENSE.txt"
+    "main.css": "/pupil/static/css/main.cdef1e19.chunk.css",
+    "main.js": "/pupil/static/js/main.d11aceaa.chunk.js",
+    "main.js.map": "/pupil/static/js/main.d11aceaa.chunk.js.map",
+    "runtime-main.js": "/pupil/static/js/runtime-main.74129332.js",
+    "runtime-main.js.map": "/pupil/static/js/runtime-main.74129332.js.map",
+    "static/js/2.4c92a2a6.chunk.js": "/pupil/static/js/2.4c92a2a6.chunk.js",
+    "static/js/2.4c92a2a6.chunk.js.map": "/pupil/static/js/2.4c92a2a6.chunk.js.map",
+    "index.html": "/pupil/index.html",
+    "static/css/main.cdef1e19.chunk.css.map": "/pupil/static/css/main.cdef1e19.chunk.css.map",
+    "static/js/2.4c92a2a6.chunk.js.LICENSE.txt": "/pupil/static/js/2.4c92a2a6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.0773bee5.js",
-    "static/js/2.d9c7daa4.chunk.js",
+    "static/js/runtime-main.74129332.js",
+    "static/js/2.4c92a2a6.chunk.js",
     "static/css/main.cdef1e19.chunk.css",
-    "static/js/main.4f3da544.chunk.js"
+    "static/js/main.d11aceaa.chunk.js"
   ]
 }
